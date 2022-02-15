@@ -3,7 +3,7 @@
  
 
 <!-- Here comes the TOC -->
-Table of Contents 
+TOC 
 
 1. [Persona](#persona)  
 2. [Requirements](#requirements)
