@@ -18,4 +18,5 @@ description: Persona
 * **Confidence** - 3/5
 * **Stress Level** - 4/5
 * **Process knowledge** - 2/5
-* **Attention to detail** - 3/5
+* **Attention to detail** - 3/5  
+* 
